@@ -1,0 +1,5 @@
+/home/zerophase/Documents/MonoDevelop/Emergency24Links/Emergency24Links/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zerophase/Documents/MonoDevelop/Emergency24Links/Emergency24Links/bin/Debug/Emergency24Links.exe.mdb
+/home/zerophase/Documents/MonoDevelop/Emergency24Links/Emergency24Links/bin/Debug/Emergency24Links.exe
+/home/zerophase/Documents/MonoDevelop/Emergency24Links/Emergency24Links/obj/x86/Debug/Emergency24Links.exe
+/home/zerophase/Documents/MonoDevelop/Emergency24Links/Emergency24Links/obj/x86/Debug/Emergency24Links.exe.mdb
